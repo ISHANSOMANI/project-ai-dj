@@ -1,0 +1,29 @@
+.heading{
+    font-size: 23px;
+    font-weight: bold;
+    font-family: Comic Sans Ms;
+    margin: 0px;
+    width: 100%;
+   
+}
+
+.note{
+    font-family: Algerain;
+    font-size: 15px;
+    font-style: italic;
+color:aqua;
+}
+
+canvas{
+    box-shadow: 5px 5px 5px rebeccapurple;
+    border: groove 5px brown;
+    border-radius: 40px;
+    margin-top: 100px;
+    }
+
+    #song_name{
+        height: 50px;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 25px;
+    }
+    
